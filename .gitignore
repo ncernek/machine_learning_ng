@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# coursera
+submission_token
+
+# other
+.DS_Store
+*/.DS_Store
+*.zip
